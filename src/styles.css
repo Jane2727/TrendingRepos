@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+
+  font-size: 10px;
+  --font-10: 1rem;
+  --font-12: 1.2rem;
+
+  --dark-color: #1f2023;
+  --violet: #929dff;
+  --blue: #4658ff;
+
+  color: var(--dark-color);
+}
+
+ul {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+  padding-inline-start: 0;
+}
